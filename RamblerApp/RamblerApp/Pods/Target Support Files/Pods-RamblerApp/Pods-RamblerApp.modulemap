@@ -1,0 +1,6 @@
+framework module Pods_RamblerApp {
+  umbrella header "Pods-RamblerApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
